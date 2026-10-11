@@ -1398,6 +1398,7 @@ Available for MacOS, Linux, & Windows<br>
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
+| [TinyImage](https://tinyimage.io/) | Hosted image compression, conversion and resizing. Free website allowance: 250 successful conversions/month, up to 20 files/batch and 28 MiB/file. Compression requires uploads; the API trial is separate. |
 | [TinyPNG](https://tinypng.com/)| Smart PNG and JPEG compression
 | [ToolKnit Image Compressor](https://toolknit.com/tools/compress-image.html) | Free client-side batch compressor for JPG, PNG and WebP with quality presets or exact target sizes. Files are not uploaded. |
 | [CompressMyPhotos](https://compressmyphotos.com/) | Free browser-based JPG, PNG and WebP compression with exact target sizes, batch downloads and EXIF removal |
